@@ -1,0 +1,16 @@
+.tables_container {
+  display: flex;
+  justify-content: space-between;
+  max-height: 80%;
+}
+
+.tables_container div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.tables_container .blocks_table {
+  margin-right: 15px;
+}
