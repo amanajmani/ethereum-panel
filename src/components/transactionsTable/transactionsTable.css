@@ -1,3 +1,4 @@
 .transactions_table td {
   max-width: 150px;
+  width: 150px;
 }

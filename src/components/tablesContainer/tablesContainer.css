@@ -4,6 +4,10 @@
   max-height: 80%;
 }
 
+.tables_container h2 {
+  color: #8798BD;
+}
+
 .tables_container div {
   display: flex;
   flex-direction: column;
